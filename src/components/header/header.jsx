@@ -17,6 +17,7 @@ return (
 {/* same here */}
 <div className='my_image'>
 
+
 {/* <img src= "./src/assets/me.jpg" alt='Nyando'/> */}
  <img src= {me} alt="Roshella" width={900} height={300} />
 
