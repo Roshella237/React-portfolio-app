@@ -46,6 +46,43 @@ export const Experience = () => {
         </div>
       </div>
     
+      <div className="experience__frontend">
+        <h3>
+          Backend Development
+        </h3>
+        <div className="experience__container">
+          <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+            <h4>MongoDB</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+          </article>
+           <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+            <h4>Node.js</h4>
+            <small className='text-light'>Intermediate</small>
+            </div>
+          </article>
+           <article className='experience__details'>
+            <BsPatchCheckFill className='experience__details-icon' />
+            <div>
+            <h4>Django</h4>
+            <small className='text-light'>Beginner</small>
+            </div>
+          </article>
+           <article className='experience__details'>
+            <BsPatchCheckFill />
+            <div>
+            <h4>React</h4>
+            <small className='text-light'>Beginner</small>
+            </div>
+          </article>
+          <article className='experience__details'>
+          </article>
+        </div>
+      </div>
       {/* End of Frontend */}
 
 
